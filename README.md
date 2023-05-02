@@ -4,7 +4,7 @@
 
 This implementation is used for detecting grape (an auxiliary part for [grape_harvesting_robot](https://github.com/huynhloc04/LVTN/tree/main/Vision_WS)) using YOLOv5s and deploying trained models with DeepStream SDK - and end-to-end solution for video analytics
 
-## ***Some key benefits of DeepStream***
+## ***DeepStream key benefits***
 
 ![github image](images/benefits.jpg)
 
