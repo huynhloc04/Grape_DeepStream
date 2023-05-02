@@ -55,13 +55,23 @@ custom-lib-path=nvdsinfer_custom_impl_Yolo/libnvdsinfer_custom_impl_Yolo.so
 
 ### **Outputs**
 
-After inference, it is indispensable to visualize the output. You can change how to visualize the output by re-config in **[class-attrs-all]** tag of config_infer_primary_yoloV5.txt file
+After inference, it is indispensable to visualize the output. You can change how to visualize the output by re-config in **[osd]** tag of config_infer_primary_yoloV5.txt file
 
 ```bash
-[class-attrs-all]
-nms-iou-threshold=0.45
-pre-cluster-threshold=0.25
-topk=300
+[osd]
+enable=1
+gpu-id=0
+border-width=3                                                              
+text-size=13
+text-color=1;1;1;1;
+text-bg-color=0.3;0.3;0.3;1
+font=Serif
+show-clock=0
+clock-x-offset=800
+clock-y-offset=820
+clock-text-size=12
+clock-color=1;0;0;0
+nvbuf-memory-type=0
 ```
 
 Learn more about *"DeepStream Reference Application"*, visit: [deepstream-reference-application](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_ref_app_deepstream.html)
