@@ -15,7 +15,7 @@ This implementation is used for detecting grape (an auxiliary part for [grape_ha
 
 ### **Input**
 
-In this project, we use camera stereo IMX219-83 to get images as inputs.
+In this project, we use camera stereo IMX219-83 to get input images.
 
 ![github image](images/IMX219-83.jpg)
 
