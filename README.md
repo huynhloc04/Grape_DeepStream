@@ -40,7 +40,7 @@ type=5
 
 ### **Models**
 
-To use your own model, change the following line of code of the config_infer_primary_yoloV5.txt config file
+To use your own model, change the followings of the config_infer_primary_yoloV5.txt config file
 
 **1. Change to engine file**
 ```bash
