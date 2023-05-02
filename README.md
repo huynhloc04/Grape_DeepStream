@@ -10,14 +10,15 @@ This implementation is used for detecting grape (an auxiliary part for [grape_ha
 
 ***Note:*** *To see more about DeepStream SDK, visit: https://developer.nvidia.com/deepstream-sdk*
 
-
 ## **DeepStream usage**
 
 ### **Input**
 
 In this project, we use camera stereo IMX219-83 to get input images.
 
-![github image](images/IMX219-83.jpg)
+<p align="center">
+  <img src="images/IMX219-83.jpg" width="350" />
+</p>
 
 ***Note:*** *If you use your own camera (USB camera, RTSP,...), change the following line of code of the deepstream_app_config.txt config file.*
 
