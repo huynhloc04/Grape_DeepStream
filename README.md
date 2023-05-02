@@ -35,7 +35,7 @@ enable=1
 type=5
 ```
 
- => Change type=5 of CSI camera to 1, 2, 3,... to proper with your input device
+ => Change type=5 of CSI camera to 1, 2, 3,... to proper with your input devices
 
 
 ### **Models**
