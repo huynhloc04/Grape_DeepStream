@@ -74,7 +74,7 @@ clock-color=1;0;0;0
 nvbuf-memory-type=0
 ```
 
-Learn more about *"DeepStream Reference Application"*, visit: [deepstream-reference-application](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_ref_app_deepstream.html)
+To learn more about *"DeepStream Reference Application"*, visit: [deepstream-reference-application](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_ref_app_deepstream.html)
 
 
 
